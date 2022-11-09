@@ -1,4 +1,5 @@
-# Vocal Development
+# Speech Development
+#### "The tongue of the speechless will shout for joy" - Isaiah 35:6
 ## Concept 
 - Cerebral palsy can affect a person's ability to coordinate the muscles around their mouth and tongue, which are needed for speech. 
 - The respiratory coordination that is needed to support speech can also be affected, e.g. some people may sound 'breathy' when they speak.
